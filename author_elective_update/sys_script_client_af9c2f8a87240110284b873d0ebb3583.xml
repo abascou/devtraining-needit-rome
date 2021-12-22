@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>pp</name>
+        <order/>
+        <script/>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 14:36:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>af9c2f8a87240110284b873d0ebb3583</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>pp</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_client_af9c2f8a87240110284b873d0ebb3583</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:36:57</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>89da35d5db6e74104d2bac44d49619e6</instance_id>
+        <instance_name>dev119522</instance_name>
+        <name>sys_script_client_af9c2f8a87240110284b873d0ebb3583</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client"><sys_script_client action="INSERT_OR_UPDATE"><active>false</active><applies_extended>false</applies_extended><condition/><description/><field/><global>true</global><isolate_script>true</isolate_script><messages/><name>pp</name><order/><script/><sys_class_name>sys_script_client</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-22 14:36:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>af9c2f8a87240110284b873d0ebb3583</sys_id><sys_mod_count>2</sys_mod_count><sys_name>pp</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_script_client_af9c2f8a87240110284b873d0ebb3583</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-22 14:36:57</sys_updated_on><table/><type/><ui_type>0</ui_type><view/></sys_script_client></record_update>]]></payload>
+        <payload_hash>-1543491635</payload_hash>
+        <record_name>pp</record_name>
+        <reverted_from/>
+        <source>811fb64687a00110284b873d0ebb3525</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 14:36:57</sys_created_on>
+        <sys_id>33cc630e87240110284b873d0ebb3558</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17de292e59d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:36:57</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>7bcc630e7b240110ab5f7dce66386457</update_guid>
+        <update_guid_history>7bcc630e7b240110ab5f7dce66386457:-1543491635,beac2f8a9b240110c4c6c873e34c8bc0:-1118709451,19aca7ca632401101d159983af5fd252:1099589288</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 14:37:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>877128e82adf44918552fd1f0ed8f241</sys_id>
+        <sys_metadata>af9c2f8a87240110284b873d0ebb3583</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pp</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_script_client_af9c2f8a87240110284b873d0ebb3583</sys_update_name>
+        <sys_update_version display_value="sys_script_client_af9c2f8a87240110284b873d0ebb3583">33cc630e87240110284b873d0ebb3558</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 14:37:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
